@@ -1,0 +1,13 @@
+C:\Users\USER\Downloads\4toA\Proyecto1parcial\SistemaGestionEmpleados\bin\Debug\SistemaGestionEmpleados.exe.config
+C:\Users\USER\Downloads\4toA\Proyecto1parcial\SistemaGestionEmpleados\bin\Debug\SistemaGestionEmpleados.exe
+C:\Users\USER\Downloads\4toA\Proyecto1parcial\SistemaGestionEmpleados\bin\Debug\SistemaGestionEmpleados.pdb
+C:\Users\USER\Downloads\4toA\Proyecto1parcial\SistemaGestionEmpleados\obj\Debug\SistemaGestionEmpleados.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\4toA\Proyecto1parcial\SistemaGestionEmpleados\obj\Debug\SistemaGestionEmpleados.Formularios.frmBono.resources
+C:\Users\USER\Downloads\4toA\Proyecto1parcial\SistemaGestionEmpleados\obj\Debug\SistemaGestionEmpleados.Formularios.frmConsultas.resources
+C:\Users\USER\Downloads\4toA\Proyecto1parcial\SistemaGestionEmpleados\obj\Debug\SistemaGestionEmpleados.Formularios.frmPrincipal.resources
+C:\Users\USER\Downloads\4toA\Proyecto1parcial\SistemaGestionEmpleados\obj\Debug\SistemaGestionEmpleados.Formularios.frmRegistro.resources
+C:\Users\USER\Downloads\4toA\Proyecto1parcial\SistemaGestionEmpleados\obj\Debug\SistemaGestionEmpleados.Properties.Resources.resources
+C:\Users\USER\Downloads\4toA\Proyecto1parcial\SistemaGestionEmpleados\obj\Debug\SistemaGestionEmpleados.csproj.GenerateResource.cache
+C:\Users\USER\Downloads\4toA\Proyecto1parcial\SistemaGestionEmpleados\obj\Debug\SistemaGestionEmpleados.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\4toA\Proyecto1parcial\SistemaGestionEmpleados\obj\Debug\SistemaGestionEmpleados.exe
+C:\Users\USER\Downloads\4toA\Proyecto1parcial\SistemaGestionEmpleados\obj\Debug\SistemaGestionEmpleados.pdb
